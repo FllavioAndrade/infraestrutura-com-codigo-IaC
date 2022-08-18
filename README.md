@@ -1,7 +1,7 @@
 # infraestrutura-com-codigo-IaC
 ### Projetos de IaC
 
- - criar um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente.
+ - Criar um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente.
  
  ### Requisitor
   - Criar as pastas /adm, /ven e /sec (administração, vendas e secretaria)
